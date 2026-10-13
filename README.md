@@ -1,0 +1,95 @@
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=3000&color=D4A017&center=true&vCenter=true&width=500&lines=Hey!+I'm+Carlos;This+is...;my+GitHub." alt="Typing SVG"/>
+  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f72,100:d4a017&height=160&section=header&text=Por%20mi%20raza%20hablar%C3%A1%20el%20esp%C3%ADritu&fontSize=26&fontColor=ffffff&fontAlignY=40" alt="Por mi raza hablará el espíritu" width="100%"/>
+</div>
+
+<div align="center">
+
+  <h2>✨ About Me</h2>
+
+  <p align="center">
+    I’m a <strong>Computer Engineering student</strong> at the School of Engineering, UNAM 🇲🇽.<br>
+    I’m interested in <strong>Compilers</strong>, <strong>Computer Graphics</strong>, and <strong>Databases</strong>.<br>
+    I like understanding how things work under the hood — from how a compiler splits code into tokens<br>
+    to how a 3D model ends up drawn on screen.<br>
+    Always curious, always learning — and ready to build cool things 💻🐆
+  </p>
+
+</div>
+
+<div align="center">
+
+  <h2 align="center">💻 Tech Stack</h2>
+
+  <p>
+    I learn best by building things for real.<br>
+    Here are some technologies and tools I have worked with:
+  </p>
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+    <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+    <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </div>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <h2 align="center">🚀 Projects</h2>
+
+  <p>A few things I have been working on at school:</p>
+
+</div>
+
+| Project | What it is | Tech |
+|---|---|---|
+| [**Team-07 · Lexical Analyzer**](https://github.com/HansZuniga/Team-07) | A hand-written lexer (no FLEX) for the Compilers course: six token categories, lexical error handling and a pytest suite. Team project — I’m the *Developer*. | Python · pytest |
+| [**Bases1UNAM**](https://github.com/CarlosParraBello/Bases1UNAM) | Coursework and practices for the Databases course. | SQL |
+| **Computer Graphics labs** | Geometric modelling, model adaptation and 3D model loading. | C++ · OpenGL · Blender |
+
+<br>
+
+<div align="center">
+
+  <h2 align="center">📬 Let’s Connect!</h2>
+
+  <p>
+    Want to see my projects or build something together?<br>
+    You can find me here on GitHub.<br>
+    I’m open to learning together and sharing ideas 🌟
+  </p>
+
+  <div align="center">
+    <a href="https://github.com/CarlosParraBello" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-CarlosParraBello-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=CarlosParraBello&style=for-the-badge" alt="Profile views"/>
+  </div>
+
+</div>
+
+<div align="center">
+
+  <h2 align="center">📊 GitHub Stats</h2>
+  <p>A small peek into my activity 🚀</p>
+
+  <table align="center">
+    <tr>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosParraBello&theme=github_dark" alt="Carlos's GitHub activity"/></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosParraBello&theme=github_dark" alt="GitHub stats"/></td>
+    </tr>
+  </table>
+
+</div>
