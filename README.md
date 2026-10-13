@@ -18,9 +18,8 @@
 
   <p align="center">
     I’m a <strong>Computer Engineering student</strong> at the School of Engineering, UNAM 🇲🇽.<br>
-    I’m interested in <strong>Compilers</strong>, <strong>Computer Graphics</strong>, and <strong>Databases</strong>.<br>
-    I like understanding how things work under the hood — from how a compiler splits code into tokens<br>
-    to how a 3D model ends up drawn on screen.<br>
+    I’m interested in <strong>Data Science</strong>, <strong>Data Analytics</strong>, and <strong>Artificial Intelligence</strong>.<br>
+    I like turning data into answers and figuring out how intelligent systems actually learn.<br>
     Always curious, always learning — and ready to build cool things 💻🕸️
   </p>
 
@@ -72,11 +71,14 @@
 
   <p>
     Want to see my projects or build something together?<br>
-    You can find me here on GitHub.<br>
+    You can find me on LinkedIn or GitHub.<br>
     I’m open to learning together and sharing ideas 🕷️
   </p>
 
   <div align="center">
+    <a href="https://www.linkedin.com/in/carlos-enrique-parra-bello/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Parra%20Bello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
     <a href="https://github.com/CarlosParraBello" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-CarlosParraBello-E23636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
