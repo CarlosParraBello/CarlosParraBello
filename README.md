@@ -27,6 +27,22 @@
 
 <div align="center">
 
+  <h2 align="center">🧪 In the Lab</h2>
+
+  <img src="https://media.giphy.com/media/SLBr5yLzocSYw/giphy.gif" alt="Tony Stark studying a blue hologram in his workshop" width="500"/>
+
+  <p><em>“If you’re nothing without the suit, then you shouldn’t have it.”</em> — Tony Stark</p>
+
+  <p>
+    🎓 Studying <strong>Computer Engineering</strong> at UNAM<br>
+    🤖 Learning <strong>Data Science</strong>, <strong>Data Analytics</strong> and <strong>AI</strong><br>
+    🐍 Working mostly with <strong>Python</strong> and <strong>SQL</strong>
+  </p>
+
+</div>
+
+<div align="center">
+
   <h2 align="center">💻 Languages &amp; Tools</h2>
 
   <p>
