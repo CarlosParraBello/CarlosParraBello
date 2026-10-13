@@ -74,13 +74,16 @@
 
   <p>
     Want to see my projects or build something together?<br>
-    You can find me on LinkedIn or GitHub.<br>
+    You can find me on LinkedIn, Instagram or GitHub.<br>
     I’m open to learning together and sharing ideas 🕷️
   </p>
 
   <div align="center">
     <a href="https://www.linkedin.com/in/carlos-enrique-parra-bello/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Carlos%20Parra%20Bello-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/enn_parra/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-enn__parra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://github.com/CarlosParraBello" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-CarlosParraBello-E23636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
