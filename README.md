@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/bcrOR2stk6tKIxqPOZ/giphy.gif" alt="Two Spider-Men pointing at each other (1967 cartoon meme)" width="600"/>
+  <img src="https://media.giphy.com/media/r5OELyQVAKsGrz9r0B/giphy.gif" alt="Spider-Man above the city in Spider-Man: Brand New Day" width="600"/>
 
   <p><em>“Anyone can wear the mask.”</em> 🕷️</p>
 
