@@ -74,7 +74,8 @@
 
   <p>
     Want to see my projects or build something together?<br>
-    You can find me on LinkedIn, Instagram or GitHub.<br>
+    You can find me on LinkedIn, Instagram or GitHub,<br>
+    or write to me at <a href="mailto:carlosparrabello06@gmail.com">carlosparrabello06@gmail.com</a>.<br>
     I’m open to learning together and sharing ideas 🕷️
   </p>
 
@@ -84,6 +85,9 @@
     </a>
     <a href="https://www.instagram.com/enn_parra/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-enn__parra-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:carlosparrabello06@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-carlosparrabello06-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://github.com/CarlosParraBello" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-CarlosParraBello-E23636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
