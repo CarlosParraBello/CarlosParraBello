@@ -65,7 +65,6 @@
 |---|---|---|
 | [**Team-07 · Lexical Analyzer**](https://github.com/HansZuniga/Team-07) | A hand-written lexer (no FLEX) for the Compilers course: six token categories, lexical error handling and a pytest suite. Team project — I’m the *Developer*. | Python · pytest |
 | [**Bases1UNAM**](https://github.com/CarlosParraBello/Bases1UNAM) | Coursework and practices for the Databases course. | SQL |
-| **Computer Graphics labs** | Geometric modelling, model adaptation and 3D model loading. | C++ · OpenGL · Blender |
 
 <br>
 
