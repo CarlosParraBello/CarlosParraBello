@@ -74,8 +74,7 @@
 
   <p>
     Want to see my projects or build something together?<br>
-    You can find me on LinkedIn, Instagram or GitHub,<br>
-    or write to me at <a href="mailto:carlosparrabello06@gmail.com">carlosparrabello06@gmail.com</a>.<br>
+    You can find me on LinkedIn, Instagram or GitHub.<br>
     I’m open to learning together and sharing ideas 🕷️
   </p>
 
