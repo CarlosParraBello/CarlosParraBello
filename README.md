@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/pIiSuYowSwclkraieD/giphy.gif" alt="Miles Morales running through the rain in Spider-Man: Across the Spider-Verse" width="600"/>
+  <img src="https://media.giphy.com/media/39vbFAxFparE8mmUw6/giphy.gif" alt="Miles Morales swinging through the collider in Spider-Man: Into the Spider-Verse" width="600"/>
 
   <p><em>“Anyone can wear the mask.”</em> 🕷️</p>
 
